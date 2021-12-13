@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/testb/static/css/main.deb46ea9.chunk.css",
+    "main.js": "/testb/static/js/main.d78b26fb.chunk.js",
+    "main.js.map": "/testb/static/js/main.d78b26fb.chunk.js.map",
+    "runtime-main.js": "/testb/static/js/runtime-main.1e2e5483.js",
+    "runtime-main.js.map": "/testb/static/js/runtime-main.1e2e5483.js.map",
+    "static/css/2.92ed7a35.chunk.css": "/testb/static/css/2.92ed7a35.chunk.css",
+    "static/js/2.126c9748.chunk.js": "/testb/static/js/2.126c9748.chunk.js",
+    "static/js/2.126c9748.chunk.js.map": "/testb/static/js/2.126c9748.chunk.js.map",
+    "static/js/3.963971e8.chunk.js": "/testb/static/js/3.963971e8.chunk.js",
+    "static/js/3.963971e8.chunk.js.map": "/testb/static/js/3.963971e8.chunk.js.map",
+    "index.html": "/testb/index.html",
+    "static/css/2.92ed7a35.chunk.css.map": "/testb/static/css/2.92ed7a35.chunk.css.map",
+    "static/css/main.deb46ea9.chunk.css.map": "/testb/static/css/main.deb46ea9.chunk.css.map",
+    "static/js/2.126c9748.chunk.js.LICENSE.txt": "/testb/static/js/2.126c9748.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/testb/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e2e5483.js",
+    "static/css/2.92ed7a35.chunk.css",
+    "static/js/2.126c9748.chunk.js",
+    "static/css/main.deb46ea9.chunk.css",
+    "static/js/main.d78b26fb.chunk.js"
+  ]
+}
