@@ -1,0 +1,18 @@
+.spotlight{
+    width: 85%;
+    margin: auto;
+}
+.spot-card-button{
+    margin-top: -5px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    text-align: center;
+}
+.spot-cart-title{
+    color: rgb(224, 53, 119);
+    font-size: 16px;
+    margin-top: 5px;
+}
+.spot-cart-des{
+    margin-top: -13px;
+    font-size: 16px;
+}

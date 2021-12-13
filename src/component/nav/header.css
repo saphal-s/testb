@@ -1,0 +1,249 @@
+.discount_header{
+    height: auto;
+    padding-bottom:10px;
+    padding-top: 8px;
+    width: 100%;
+    background: rgb(219,6,110);
+    background: linear-gradient(90deg, rgba(219,6,110,1) 48%, rgba(231,6,136,1) 100%);
+}
+ .navs{
+     position: sticky;
+    top: 0px;
+    z-index: 2;
+    margin-top: -16px;
+    padding-top: 15px;
+    background-color: #fff; 
+}
+
+.dhmt{
+    margin-top: -1px !important;
+}
+.bellezza_disc{
+    font-size: 29px;
+    font-family: 'Satisfy', cursive;
+    color:#fff;
+    font-weight: bold;
+    margin-top: 3px;
+ }
+ .dis_flex{
+     width: 90%;
+     margin: auto;
+     margin-top: 7px;
+     text-align: center;
+     display: flex;
+     justify-content: space-around;
+ }
+ .start_text{
+    margin-top: 7px;
+    text-align: center;
+    display: flex;
+ }
+ .dis_text {
+     font-size: 17px;
+     color: #fff;
+ }
+ .dis_text span{
+     font-weight: 550;
+     background-color: #fff;
+     color: rgb(163, 0, 68);
+    border-style: dashed; padding: 3px 7px;
+ }
+ #dcb{
+     font-size: 23px;
+    color: #000;
+    margin-top: 10px;
+    cursor: pointer;
+ }
+
+
+/* for mobile view */
+
+.dism_text {
+    font-size: 15px;
+    color: #fff;
+}
+.dism_text span{
+    font-weight: 550;
+    background-color: #fff;
+    color: rgb(163, 0, 68);
+   border-style: dashed; padding: 2px 5px;
+   font-size: 13px !important;
+}
+.dmh{
+    height: 74px;
+    padding: .5px;
+    width: 100%;
+    background: rgb(219,6,110);
+    background: linear-gradient(90deg, rgba(219,6,110,1) 48%, rgba(231,6,136,1) 100%); 
+}
+.dmfx{
+    margin-top: -3px;
+}
+.mobile{
+    display: none;
+}
+ @media (max-width: 924px) {
+    .mobile{
+        display: block;
+    }
+    .desktop{
+        display:none;
+    }
+} 
+
+
+
+/* second head */
+
+.search input{
+    width: 420px;
+    height: 36px;
+    border: 1px solid black;
+    margin-top: 5px;
+}
+.search input[type='text']{
+    padding-left: 5px;
+    outline: none;
+}
+.search{
+   text-align: center;
+} 
+.search_icon{
+    border: 1px solid black;
+    font-size: 21px;
+    padding: 6.5px;
+    position: absolute;
+    top: 5px;
+}
+.hbellezza{
+    float: right;
+    font-size: 40px;
+    font-family: 'Satisfy', cursive;
+    color:#000;
+    font-weight: bold;
+}
+.menuout{
+    font-size: 40px;
+}
+.icon{
+    font-size: 30px;
+}
+.borders{
+    padding-top: 4px;
+    border-bottom: 1px solid #ccc;
+}
+.itext{
+    font-size: 16px;
+    font-weight: 550;
+}
+
+/* mobile nav design */
+
+.menuicon{
+    font-size: 25px;
+}
+.msearchicon{
+    font-size: 25px;
+    padding-left: 20px;
+}
+.mhbellezza{
+    font-size: 28px;
+    font-family: 'Satisfy', cursive;
+    color:#000;
+    font-weight: bold;
+    padding-left: 20px;
+}
+.micon{
+    font-size: 25px;
+    padding-left: 15px;
+}
+.dflex{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 10px;
+}
+.mobilenav{
+    border-bottom: 1px solid #ccc;
+    display: none;
+}
+
+.ant-modal-footer{
+    display: none !important;
+}
+.ant-modal-body{
+    height: 80px;
+}
+.ant-modal-close-x{
+    margin-top: -20px;
+    margin-right: -10px;
+    color: #000;
+}
+.ant-drawer-header{
+    display: none !important;
+}
+.ant-menu-submenu-arrow{
+    font-size: 40px !important;
+    color: rgb(236, 4, 82) !important;
+    display: block !important;
+}
+.ant-menu-submenu-arrow{
+    position:relative !important;
+   margin-top: -40px;
+}
+.menu-light .ant-menu-submenu-active, .ant-menu-light .ant-menu-submenu-title:hover {
+    color: #000 !important;
+   border-left: 3px solid rgb(255, 0, 76);
+}
+.ant-menu-title-content{
+    display: block;
+    border-bottom: 1px solid #ccc;
+    margin-left: -25px;
+    padding-left: 10px;
+}
+.ant-menu-title-content{
+    color: #000;
+}
+.ant-menu-item{
+    margin-left: -20px !important;
+}
+.ant-tabs-tab-btn{
+    width: 80px;
+    color: rgb(202, 5, 80) !important;
+    font-size: 17px !important;
+    margin-top: -15px !important;
+    text-align: center !important;
+}
+.ant-tabs-ink-bar{
+    background: rgb(202, 5, 80) !important;
+}
+.drawer-brand{
+    border-left: 2px solid rgb(255, 0, 76);
+    border-bottom: 1px solid #ccc;
+    font-size: 16px;
+    padding:7px 0px 7px 10px;
+    margin-bottom: 10px;
+}
+
+.msearch input{
+    width: 230px;
+    outline: none;
+    border: 1px solid black;
+}
+.msearch_icon{
+    border: 1px solid black;
+    font-size: 18px;
+    padding: 3px;
+    position: absolute; 
+}
+
+@media (max-width: 1124px) {
+    .borders{
+        display: none;
+    }
+    .mobilenav{
+        display:block;
+    }
+} 
+
+/* Third header line */
+

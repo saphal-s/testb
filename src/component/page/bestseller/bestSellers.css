@@ -1,0 +1,43 @@
+.bestsellers-head h3{
+    font-size: 45px;
+    font-family: 'Satisfy', cursive;
+    font-weight: bold;
+}
+ 
+.cart-wishlist{
+    display: flex;
+    padding: 5px 0px;
+    background-color: rgb(224, 53, 119);
+}
+.add-to-wishlist{
+    cursor: pointer;
+text-align: center;
+width: 90px;
+border-right: 2px solid black;
+}
+#heart{
+    font-size: 25px;
+    color: #fff;
+}
+.add-to-cart{
+    cursor: pointer;
+    width: 250px;
+font-size: 18px;
+text-align: center;
+color: #fff;
+}
+
+.cards{
+    width: 220px !important;
+    cursor: pointer;
+}
+.cards img{
+    height: 220px !important;
+}
+#shoppingcart{
+    margin-top: -15px;
+    font-size: 25px !important;
+}
+#shopcart{
+    font-size: 25px;
+}
