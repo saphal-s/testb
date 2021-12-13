@@ -42,11 +42,11 @@ const Header = () => {
                             <span className="itext">My Items</span>
                         </div>
                         <div className="cart ms-5">
-                            <i className="fas fa-shopping-bag icon"></i>
+                            <i className="fas fa-shopping-bag icon"></i>&nbsp;
                             <span className="itext">Bag</span>
                         </div>
                         <div className="user ms-5">
-                            <i className="far fa-user icon"></i>
+                            <i className="far fa-user icon"></i>&nbsp;
                             <span className="itext">Account</span>
                         </div>
                     </div>
