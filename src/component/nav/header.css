@@ -142,7 +142,10 @@
 .menuicon{
     font-size: 25px;
 }
+
 .msearchicon{
+    border: none;
+    margin-top: 5px;
     font-size: 25px;
     padding-left: 20px;
 }
